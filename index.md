@@ -1,5 +1,3 @@
-# Dead men tell no tales
-
 ## tutorials
 
 - [Layman's iptables 101](https://iximiuz.com/en/posts/laymans-iptables-101/) 
