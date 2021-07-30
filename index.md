@@ -1,4 +1,4 @@
-Heading level 1
+TIL
 ===============
 ## tutorials
 
@@ -6,7 +6,7 @@ Heading level 1
 - [Breaking into InfoSec: A Beginners Curriculum](https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum/)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [Stanford CS253: Web Security](https://web.stanford.edu/class/cs253/)
-
+- [Computer Science from the Bottom Up](Computer Science from the Bottom Up)
 ## history
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht) 
 
