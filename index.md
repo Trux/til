@@ -8,3 +8,6 @@
 
 ## history
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht) 
+
+## interesting github project
+- [micro is a terminal-based text editor that aims to be easy to use and intuitive](https://github.com/zyedidia/micro) 
