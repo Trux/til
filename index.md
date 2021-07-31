@@ -23,11 +23,11 @@
 - [ SQLBolt : Learn SQL with simple, interactive exercises. ](https://sqlbolt.com/)
 - [Probably Are Gonna Need It: Application Security Edition](https://jacobian.org/2021/jul/8/appsec-pagnis/)
 - [Python SpeedSheet](https://speedsheet.io/s/python)
-
+- [Markov Chains Explained Visually](https://setosa.io/ev/markov-chains/)
 ## history
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht) 
 - [1956 Cryptanalysis – A Study Of Ciphers And Their Solution](https://archive.org/details/1956Cryptanalysis-AStudyOfCiphersAndTheirSolution/page/n7/mode/2up)
-- [Phrack Magazine](https://news.ycombinator.com/item?id=26475708)
+
 ## interesting tools
 
 - [micro is a terminal-based text editor that aims to be easy to use and intuitive](https://github.com/zyedidia/micro) 
@@ -39,3 +39,5 @@
 - [Network Security 101: Full Workshop](https://www.youtube.com/watch?v=E03gh1huvW4)
 - [CompTIA Network+ N10-007 Training Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd)
 
+## Hacker News
+- [Phrack Magazine](https://news.ycombinator.com/item?id=26475708)
