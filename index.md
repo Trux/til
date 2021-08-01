@@ -24,6 +24,7 @@
 - [Probably Are Gonna Need It: Application Security Edition](https://jacobian.org/2021/jul/8/appsec-pagnis/)
 - [Python SpeedSheet](https://speedsheet.io/s/python)
 - [Markov Chains Explained Visually](https://setosa.io/ev/markov-chains/)
+- [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html)
 - 
 ## history
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht) 
