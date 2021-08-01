@@ -25,7 +25,8 @@
 - [Python SpeedSheet](https://speedsheet.io/s/python)
 - [Markov Chains Explained Visually](https://setosa.io/ev/markov-chains/)
 - [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html)
-- 
+  
+  
 ## history
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht) 
 - [1956 Cryptanalysis – A Study Of Ciphers And Their Solution](https://archive.org/details/1956Cryptanalysis-AStudyOfCiphersAndTheirSolution/page/n7/mode/2up)
