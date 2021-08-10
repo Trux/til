@@ -31,11 +31,12 @@
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht) 
 - [1956 Cryptanalysis – A Study Of Ciphers And Their Solution](https://archive.org/details/1956Cryptanalysis-AStudyOfCiphersAndTheirSolution/page/n7/mode/2up)
 
-## interesting tools
+##  tools
 
 - [micro is a terminal-based text editor that aims to be easy to use and intuitive](https://github.com/zyedidia/micro) 
 - [The detox utility renames files to make them easier to work with](https://linux.die.net/man/1/detox) 
 - [Python Best Practices for a New Project in 2021](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/)
+- [Security tools showcased at Black Hat USA 2021](https://therecord.media/security-tools-showcased-at-black-hat-usa-2021/)
   
 
 
