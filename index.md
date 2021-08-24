@@ -25,7 +25,7 @@
 - [Python SpeedSheet](https://speedsheet.io/s/python)
 - [Markov Chains Explained Visually](https://setosa.io/ev/markov-chains/)
 - [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html)
-  
+- [Stack vs Heap: Know the Difference ](https://www.guru99.com/stack-vs-heap.html)
   
 ## history
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht) 
