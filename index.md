@@ -37,6 +37,7 @@
 - [The detox utility renames files to make them easier to work with](https://linux.die.net/man/1/detox)
 - [Python Best Practices for a New Project in 2021](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/)
 - [Security tools showcased at Black Hat USA 2021](https://therecord.media/security-tools-showcased-at-black-hat-usa-2021/)
+- [REMnux: A Linux Toolkit for Malware Analysis](https://remnux.org/)
 
 ## videos
 
