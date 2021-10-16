@@ -25,6 +25,9 @@
 - [Markov Chains Explained Visually](https://setosa.io/ev/markov-chains/)
 - [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html)
 - [Stack vs Heap: Know the Difference ](https://www.guru99.com/stack-vs-heap.html)
+- [teach me pcb](https://news.ycombinator.com/item?id=28742902)
+- [paper airplane design](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
+
 
 ## history
 
