@@ -27,6 +27,7 @@
 - [Stack vs Heap: Know the Difference ](https://www.guru99.com/stack-vs-heap.html)
 - [teach me pcb](https://news.ycombinator.com/item?id=28742902)
 - [paper airplane design](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
+- [100 Bytes of CSS to look great everywhere ](https://dev.to/swyx/100-bytes-of-css-to-look-great-everywhere-19pd)
 
 
 ## history
@@ -41,6 +42,8 @@
 - [Python Best Practices for a New Project in 2021](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/)
 - [Security tools showcased at Black Hat USA 2021](https://therecord.media/security-tools-showcased-at-black-hat-usa-2021/)
 - [REMnux: A Linux Toolkit for Malware Analysis](https://remnux.org/)
+- [Ventoy has provided Injection Plugin to inject files to the runtime envrionment after boos the ISO file](https://www.ventoy.net/en/doc_inject_autorun.html)
+- [Water.css is a drop-in collection of CSS styles to make simple websites like this just a little bit nicer](https://watercss.kognise.dev/)
 
 ## videos
 
