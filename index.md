@@ -28,12 +28,15 @@
 - [teach me pcb](https://news.ycombinator.com/item?id=28742902)
 - [paper airplane design](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 - [100 Bytes of CSS to look great everywhere ](https://dev.to/swyx/100-bytes-of-css-to-look-great-everywhere-19pd)
-
+- [FFmpeg – the best encoder codes for 360 VR Videos](https://www.vrtonung.de/en/ffmpeg-codes/)
+- [RHEL 8 Learning Resources](https://www.sandervanvugt.com/rhel-8-learning-resources/)
+- [SQL Slides for developers](https://winand.at/sql-slides-for-developers)
 
 ## history
 
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht)
 - [1956 Cryptanalysis – A Study Of Ciphers And Their Solution](https://archive.org/details/1956Cryptanalysis-AStudyOfCiphersAndTheirSolution/page/n7/mode/2up)
+- [What every IT person needs to know about OpenBSD Part 1: How it all started](https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/)
 
 ## tools
 
@@ -105,3 +108,7 @@
 - [Python For Finance: Algorithmic Trading](https://news.ycombinator.com/item?id=14469477)
 - [Mastering Bash and Terminal](https://news.ycombinator.com/item?id=13400350)
 - [Pixar in a Box – Khan Academy](https://news.ycombinator.com/item?id=10129914)
+
+## rom hacks
+- [Resident Evil: True Director's Cut](https://www.romhacking.net/hacks/5837/)
+- [Final Fantasy VI - Ted Woolsey Uncensored Edition](https://www.romhacking.net/reviews/3587/)
