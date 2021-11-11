@@ -31,7 +31,8 @@
 - [FFmpeg – the best encoder codes for 360 VR Videos](https://www.vrtonung.de/en/ffmpeg-codes/)
 - [RHEL 8 Learning Resources](https://www.sandervanvugt.com/rhel-8-learning-resources/)
 - [SQL Slides for developers](https://winand.at/sql-slides-for-developers)
-
+- [OCW MIT: 6.006 Intro to Algorithms 2020](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/)
+- [MIT 18.404J – Theory of Computation](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
 ## history
 
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht)
@@ -68,6 +69,7 @@
 - [ShellShock & Kernel Exploits - TryHackMe! 0day](https://www.youtube.com/watch?v=TS_yfDqr_3s)
 - [D23 Expo 2019 Archives Stage: Digging Deeper into Disney History](https://www.youtube.com/watch?v=ruxcipPVa4I)
 - [Houdini Isn't Scary - Part 1: Basics](https://www.youtube.com/watch?v=Tsv8UGqDibc&list=PLhyeWJ40aDkUDHDOhZQ2UkCfNiQj7hS5W)
+- [Karaoke Mugen](https://kara.moe/)
 
 ## Hacker News
 
