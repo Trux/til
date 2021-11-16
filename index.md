@@ -33,12 +33,16 @@
 - [SQL Slides for developers](https://winand.at/sql-slides-for-developers)
 - [OCW MIT: 6.006 Intro to Algorithms 2020](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/)
 - [MIT 18.404J – Theory of Computation](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
+- [Minimum Viable Secure Product](https://mvsp.dev/mvsp.en/index.html)
+- [hardening SSH](https://www.tronyxworld.be/2020/hardening_ssh/)
   
 ## history
 
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht)
 - [1956 Cryptanalysis – A Study Of Ciphers And Their Solution](https://archive.org/details/1956Cryptanalysis-AStudyOfCiphersAndTheirSolution/page/n7/mode/2up)
 - [What every IT person needs to know about OpenBSD Part 1: How it all started](https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/)
+- [The Complete List of Hacker And Cybersecurity Movies](https://cybersecurityventures.com/movies-about-cybersecurity-and-hacking/)
+- [L'Histoire de la GameCube](https://ludostrie.com/desormais-outsider-space-world/)
 
 ## tools
 
@@ -116,3 +120,4 @@
 ## rom hacks
 - [Resident Evil: True Director's Cut](https://www.romhacking.net/hacks/5837/)
 - [Final Fantasy VI - Ted Woolsey Uncensored Edition](https://www.romhacking.net/reviews/3587/)
+- [Majora's Mask N64HD Project (MLE)](https://evilgames.eu/texture-packs/mm-n64hd.htm#close)
