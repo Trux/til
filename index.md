@@ -33,6 +33,7 @@
 - [SQL Slides for developers](https://winand.at/sql-slides-for-developers)
 - [OCW MIT: 6.006 Intro to Algorithms 2020](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/)
 - [MIT 18.404J – Theory of Computation](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
+  
 ## history
 
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht)
@@ -48,6 +49,7 @@
 - [REMnux: A Linux Toolkit for Malware Analysis](https://remnux.org/)
 - [Ventoy has provided Injection Plugin to inject files to the runtime envrionment after boos the ISO file](https://www.ventoy.net/en/doc_inject_autorun.html)
 - [Water.css is a drop-in collection of CSS styles to make simple websites like this just a little bit nicer](https://watercss.kognise.dev/)
+- [Applications to run at the command line](https://lib.rs/command-line-utilities)
 
 ## videos
 
