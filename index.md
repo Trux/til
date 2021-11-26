@@ -35,6 +35,7 @@
 - [MIT 18.404J – Theory of Computation](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
 - [Minimum Viable Secure Product](https://mvsp.dev/mvsp.en/index.html)
 - [hardening SSH](https://www.tronyxworld.be/2020/hardening_ssh/)
+- [Windows & Active Directory Exploitation Cheat Sheet and Command Reference](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
   
 ## history
 
@@ -54,6 +55,7 @@
 - [Ventoy has provided Injection Plugin to inject files to the runtime envrionment after boos the ISO file](https://www.ventoy.net/en/doc_inject_autorun.html)
 - [Water.css is a drop-in collection of CSS styles to make simple websites like this just a little bit nicer](https://watercss.kognise.dev/)
 - [Applications to run at the command line](https://lib.rs/command-line-utilities)
+- [antics fonts](https://www.schäffel.ch/de_gruppe1.html)
 
 ## videos
 
@@ -76,6 +78,7 @@
 - [D23 Expo 2019 Archives Stage: Digging Deeper into Disney History](https://www.youtube.com/watch?v=ruxcipPVa4I)
 - [Houdini Isn't Scary - Part 1: Basics](https://www.youtube.com/watch?v=Tsv8UGqDibc&list=PLhyeWJ40aDkUDHDOhZQ2UkCfNiQj7hS5W)
 - [Karaoke Mugen](https://kara.moe/)
+- [Code in Three Dimensions.](http://raytracerchallenge.com/)
 
 ## Hacker News
 
