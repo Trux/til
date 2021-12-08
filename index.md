@@ -130,3 +130,6 @@
 - [Resident Evil: True Director's Cut](https://www.romhacking.net/hacks/5837/)
 - [Final Fantasy VI - Ted Woolsey Uncensored Edition](https://www.romhacking.net/reviews/3587/)
 - [Majora's Mask N64HD Project (MLE)](https://evilgames.eu/texture-packs/mm-n64hd.htm#close)
+
+## random stuff
+[Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
