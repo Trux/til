@@ -36,6 +36,8 @@
 - [Minimum Viable Secure Product](https://mvsp.dev/mvsp.en/index.html)
 - [hardening SSH](https://www.tronyxworld.be/2020/hardening_ssh/)
 - [Windows & Active Directory Exploitation Cheat Sheet and Command Reference](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
+- [crafting interpreters](https://www.craftinginterpreters.com/)
+- [Cryptography 101](https://www.coursera.org/learn/crypto)
   
 ## history
 
