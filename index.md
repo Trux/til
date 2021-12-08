@@ -38,6 +38,9 @@
 - [Windows & Active Directory Exploitation Cheat Sheet and Command Reference](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
 - [crafting interpreters](https://www.craftinginterpreters.com/)
 - [Cryptography 101](https://www.coursera.org/learn/crypto)
+- [Understanding Awk](https://earthly.dev/blog/awk-examples/)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Tech Interview Handbook](https://techinterviewhandbook.org/)
   
 ## history
 
@@ -46,6 +49,7 @@
 - [What every IT person needs to know about OpenBSD Part 1: How it all started](https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/)
 - [The Complete List of Hacker And Cybersecurity Movies](https://cybersecurityventures.com/movies-about-cybersecurity-and-hacking/)
 - [L'Histoire de la GameCube](https://ludostrie.com/desormais-outsider-space-world/)
+- [The untold story of the world’s biggest nuclear bomb](https://thebulletin.org/2021/11/the-untold-story-of-the-worlds-biggest-nuclear-bomb/)
 
 ## tools
 
