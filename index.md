@@ -85,6 +85,7 @@
 - [Houdini Isn't Scary - Part 1: Basics](https://www.youtube.com/watch?v=Tsv8UGqDibc&list=PLhyeWJ40aDkUDHDOhZQ2UkCfNiQj7hS5W)
 - [Karaoke Mugen](https://kara.moe/)
 - [Code in Three Dimensions.](http://raytracerchallenge.com/)
+- [Introduction to Artificial Intelligence](https://youtu.be/5LVa-Rf2ZLg?list=PL_xRyXins84_KZcXNu8ZJEo3874cjlMA9)
 
 ## Hacker News
 
