@@ -41,6 +41,8 @@
 - [Understanding Awk](https://earthly.dev/blog/awk-examples/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
+- [ malware Reversing](https://www.malwaretech.com/challenges/windows-reversing)
+- [why hashmaps are fast](https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/)
   
 ## history
 
@@ -133,4 +135,7 @@
 - [Majora's Mask N64HD Project (MLE)](https://evilgames.eu/texture-packs/mm-n64hd.htm#close)
 
 ## random stuff
-[Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+- [Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+- [Gundam : par où commencer?](http://riennevaplus.canalblog.com/archives/2019/04/07/37183466.html)
+- [Paged Out!  a free experimental technical magazine ](https://pagedout.institute/)
+- [YouTube Security Scene](http://phrack.org/issues/70/15.html#article)
