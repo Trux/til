@@ -139,3 +139,4 @@
 - [Gundam : par où commencer?](http://riennevaplus.canalblog.com/archives/2019/04/07/37183466.html)
 - [Paged Out!  a free experimental technical magazine ](https://pagedout.institute/)
 - [YouTube Security Scene](http://phrack.org/issues/70/15.html#article)
+- [Python Code Best Practices ](https://dev.to/dollardhingra/python-code-best-practices-4k96)
