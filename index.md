@@ -140,3 +140,4 @@
 - [Paged Out!  a free experimental technical magazine ](https://pagedout.institute/)
 - [YouTube Security Scene](http://phrack.org/issues/70/15.html#article)
 - [Python Code Best Practices ](https://dev.to/dollardhingra/python-code-best-practices-4k96)
+- [list of darknet sites](https://tor.taxi/https://tor.taxi/)
