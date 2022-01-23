@@ -43,7 +43,8 @@
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
 - [ malware Reversing](https://www.malwaretech.com/challenges/windows-reversing)
 - [why hashmaps are fast](https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/)
-  
+- [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/)
+- [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)  
 ## history
 
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht)
@@ -64,7 +65,7 @@
 - [Water.css is a drop-in collection of CSS styles to make simple websites like this just a little bit nicer](https://watercss.kognise.dev/)
 - [Applications to run at the command line](https://lib.rs/command-line-utilities)
 - [antics fonts](https://www.schäffel.ch/de_gruppe1.html)
-
+- [Vim cheatsheet](https://devhints.io/vim)
 ## videos
 
 - [Network Security 101: Full Workshop](https://www.youtube.com/watch?v=E03gh1huvW4)
