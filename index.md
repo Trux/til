@@ -142,3 +142,13 @@
 - [YouTube Security Scene](http://phrack.org/issues/70/15.html#article)
 - [Python Code Best Practices ](https://dev.to/dollardhingra/python-code-best-practices-4k96)
 - [list of darknet sites](https://tor.taxi/https://tor.taxi/)
+
+## challenge
+- [https://www.newbiecontest.org/](https://www.newbiecontest.org/)
+- [https://www.hackthebox.com/](https://www.hackthebox.com/)
+- [https://www.codingame.com/start](https://www.codingame.com/start)
+- [https://ctftime.org/](https://ctftime.org/)
+- [https://codeforces.com/](https://codeforces.com/)
+- [https://www.root-me.org/](https://www.root-me.org/)
+- [https://primers.xyz/](https://primers.xyz/)
+- [https://projecteuler.net/](https://projecteuler.net/)
