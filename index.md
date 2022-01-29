@@ -45,6 +45,7 @@
 - [why hashmaps are fast](https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/)
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/)
 - [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)  
+- [Go by Example](https://gobyexample.com/)
 ## history
 
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht)
