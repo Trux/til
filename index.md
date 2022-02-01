@@ -44,8 +44,9 @@
 - [ malware Reversing](https://www.malwaretech.com/challenges/windows-reversing)
 - [why hashmaps are fast](https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/)
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/)
-- [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)  
+- [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)
 - [Go by Example](https://gobyexample.com/)
+
 ## history
 
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht)
@@ -67,6 +68,7 @@
 - [Applications to run at the command line](https://lib.rs/command-line-utilities)
 - [antics fonts](https://www.schäffel.ch/de_gruppe1.html)
 - [Vim cheatsheet](https://devhints.io/vim)
+
 ## videos
 
 - [Network Security 101: Full Workshop](https://www.youtube.com/watch?v=E03gh1huvW4)
@@ -132,19 +134,22 @@
 - [Pixar in a Box – Khan Academy](https://news.ycombinator.com/item?id=10129914)
 
 ## rom hacks
+
 - [Resident Evil: True Director's Cut](https://www.romhacking.net/hacks/5837/)
 - [Final Fantasy VI - Ted Woolsey Uncensored Edition](https://www.romhacking.net/reviews/3587/)
 - [Majora's Mask N64HD Project (MLE)](https://evilgames.eu/texture-packs/mm-n64hd.htm#close)
 
 ## random stuff
+
 - [Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 - [Gundam : par où commencer?](http://riennevaplus.canalblog.com/archives/2019/04/07/37183466.html)
-- [Paged Out!  a free experimental technical magazine ](https://pagedout.institute/)
+- [Paged Out! a free experimental technical magazine ](https://pagedout.institute/)
 - [YouTube Security Scene](http://phrack.org/issues/70/15.html#article)
 - [Python Code Best Practices ](https://dev.to/dollardhingra/python-code-best-practices-4k96)
 - [list of darknet sites](https://tor.taxi/https://tor.taxi/)
 
 ## challenge
+
 - [https://www.newbiecontest.org/](https://www.newbiecontest.org/)
 - [https://www.hackthebox.com/](https://www.hackthebox.com/)
 - [https://www.codingame.com/start](https://www.codingame.com/start)
@@ -153,3 +158,4 @@
 - [https://www.root-me.org/](https://www.root-me.org/)
 - [https://primers.xyz/](https://primers.xyz/)
 - [https://projecteuler.net/](https://projecteuler.net/)
+- [https://picoctf.org/](PicoCTF)
