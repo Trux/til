@@ -68,6 +68,7 @@
 - [Applications to run at the command line](https://lib.rs/command-line-utilities)
 - [antics fonts](https://www.schäffel.ch/de_gruppe1.html)
 - [Vim cheatsheet](https://devhints.io/vim)
+- [sha256 calculator](https://sha256algorithm.com/)
 
 ## videos
 
