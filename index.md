@@ -134,11 +134,12 @@
 - [Mastering Bash and Terminal](https://news.ycombinator.com/item?id=13400350)
 - [Pixar in a Box – Khan Academy](https://news.ycombinator.com/item?id=10129914)
 
-## rom hacks
+## emulation
 
 - [Resident Evil: True Director's Cut](https://www.romhacking.net/hacks/5837/)
 - [Final Fantasy VI - Ted Woolsey Uncensored Edition](https://www.romhacking.net/reviews/3587/)
 - [Majora's Mask N64HD Project (MLE)](https://evilgames.eu/texture-packs/mm-n64hd.htm#close)
+- [CyberLab Mega Bezel Death To Pixels Shader Preset Pack](https://forums.libretro.com/t/cyberlab-mega-bezel-death-to-pixels-shader-preset-pack/35606?u=cyber)
 
 ## random stuff
 
@@ -160,3 +161,9 @@
 - [https://primers.xyz/](https://primers.xyz/)
 - [https://projecteuler.net/](https://projecteuler.net/)
 - [https://picoctf.org/](PicoCTF)
+
+## certifications
+
+- [CompTIA Security+](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
+- [eLearnSecurity Junior Penetration Tester](https://elearnsecurity.com/product/ejpt-certification/)
+- [CompTIA Security+](https://www.comptia.org/certifications/security)
