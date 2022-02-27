@@ -46,6 +46,7 @@
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/)
 - [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)
 - [Go by Example](https://gobyexample.com/)
+- [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html#your-anonymized-torvpn-traffic)
 
 ## history
 
@@ -69,6 +70,7 @@
 - [antics fonts](https://www.schäffel.ch/de_gruppe1.html)
 - [Vim cheatsheet](https://devhints.io/vim)
 - [sha256 calculator](https://sha256algorithm.com/)
+- [Firefox Extensions to Enhance Your Pentesting/Bug bounty Hunting](https://nitter.net/cyph3r_asr/status/1430199021713297410)
 
 ## videos
 
