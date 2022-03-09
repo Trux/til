@@ -47,6 +47,7 @@
 - [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)
 - [Go by Example](https://gobyexample.com/)
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html#your-anonymized-torvpn-traffic)
+- [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
 
 ## history
 
