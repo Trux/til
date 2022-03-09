@@ -41,13 +41,14 @@
 - [Understanding Awk](https://earthly.dev/blog/awk-examples/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
-- [ malware Reversing](https://www.malwaretech.com/challenges/windows-reversing)
+- [malware Reversing](https://www.malwaretech.com/challenges/windows-reversing)
 - [why hashmaps are fast](https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/)
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/)
 - [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)
 - [Go by Example](https://gobyexample.com/)
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html#your-anonymized-torvpn-traffic)
 - [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
+- [Windows Defender hardening](https://0ut3r.space/2022/03/06/windows-defender/#Enable-MAPS)
 
 ## history
 
