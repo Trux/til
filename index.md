@@ -49,6 +49,8 @@
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html#your-anonymized-torvpn-traffic)
 - [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
 - [Windows Defender hardening](https://0ut3r.space/2022/03/06/windows-defender/#Enable-MAPS)
+- [Python built-in functions to know](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
+- [Les applications indispensables pour un smartphone Android dégooglisé]([https://dbeley.ovh/post/2022/02/10/les-applications-indispensables-pour-un-smartphone-android-dégooglisé/)
 
 ## history
 
