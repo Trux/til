@@ -51,6 +51,7 @@
 - [Windows Defender hardening](https://0ut3r.space/2022/03/06/windows-defender/#Enable-MAPS)
 - [Python built-in functions to know](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 - [Les applications indispensables pour un smartphone Android dégooglisé]([https://dbeley.ovh/post/2022/02/10/les-applications-indispensables-pour-un-smartphone-android-dégooglisé/)
+- [Calculus Revisited: Single Variable Calculus](https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/)
 
 ## history
 
@@ -75,6 +76,7 @@
 - [Vim cheatsheet](https://devhints.io/vim)
 - [sha256 calculator](https://sha256algorithm.com/)
 - [Firefox Extensions to Enhance Your Pentesting/Bug bounty Hunting](https://nitter.net/cyph3r_asr/status/1430199021713297410)
+- [An app for managing ROMs in Steam](https://steamgriddb.github.io/steam-rom-manager/)
 
 ## videos
 
