@@ -52,6 +52,8 @@
 - [Python built-in functions to know](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 - [Les applications indispensables pour un smartphone Android dégooglisé]([https://dbeley.ovh/post/2022/02/10/les-applications-indispensables-pour-un-smartphone-android-dégooglisé/)
 - [Calculus Revisited: Single Variable Calculus](https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/)
+- [The Internet Was Designed With a Narrow Waist](https://www.oilshell.org/blog/2022/02/diagrams.html)
+- [Wireshark Labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)
 
 ## history
 
