@@ -152,7 +152,6 @@
 - [CyberLab Mega Bezel Death To Pixels Shader Preset Pack](https://forums.libretro.com/t/cyberlab-mega-bezel-death-to-pixels-shader-preset-pack/35606?u=cyber)
 - [Fire Emblem Binary](https://www.romhacking.net/hacks/3863/)
 - [Chrono Trigger: Bugfix and Uncensoring Patch](https://www.romhacking.net/hacks/3147/)
--
 
 ## random stuff
 
