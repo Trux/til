@@ -171,6 +171,7 @@
 - [list of darknet sites](https://tor.taxi/https://tor.taxi/)
 - [marvel reading orders](https://cmro.travis-starnes.com)
 - [https://nohello.net/en/](https://nohello.net/en/)
+- [Tenets of IT](https://github.com/DavidBrightSparc/Tenets-of-IT)
 
 ## challenge
 
