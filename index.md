@@ -54,6 +54,9 @@
 - [Calculus Revisited: Single Variable Calculus](https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/)
 - [The Internet Was Designed With a Narrow Waist](https://www.oilshell.org/blog/2022/02/diagrams.html)
 - [Wireshark Labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)
+- [The Illustrated TLS 1.3 Connection](https://tls13.ulfheim.net/)
+- [CS229: Machine Learning](https://cs229.stanford.edu/)
+- [A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a)
 
 ## history
 
@@ -63,6 +66,7 @@
 - [The Complete List of Hacker And Cybersecurity Movies](https://cybersecurityventures.com/movies-about-cybersecurity-and-hacking/)
 - [L'Histoire de la GameCube](https://ludostrie.com/desormais-outsider-space-world/)
 - [The untold story of the world’s biggest nuclear bomb](https://thebulletin.org/2021/11/the-untold-story-of-the-worlds-biggest-nuclear-bomb/)
+- [Unix command line conventions over time ](https://blog.liw.fi/posts/2022/05/07/unix-cli/)
 
 ## tools
 
@@ -79,6 +83,8 @@
 - [sha256 calculator](https://sha256algorithm.com/)
 - [Firefox Extensions to Enhance Your Pentesting/Bug bounty Hunting](https://nitter.net/cyph3r_asr/status/1430199021713297410)
 - [An app for managing ROMs in Steam](https://steamgriddb.github.io/steam-rom-manager/)
+- [https://www.henrypp.org/product/simplewallcv](https://www.henrypp.org/product/simplewall)
+- [https://docs.microsoft.com/en-us/windows/client-management/troubleshoot-windows-freeze](Advanced troubleshooting for Windows freezes)
 
 ## videos
 
@@ -103,6 +109,8 @@
 - [Karaoke Mugen](https://kara.moe/)
 - [Code in Three Dimensions.](http://raytracerchallenge.com/)
 - [Introduction to Artificial Intelligence](https://youtu.be/5LVa-Rf2ZLg?list=PL_xRyXins84_KZcXNu8ZJEo3874cjlMA9)
+- [What's Up With Sysmon and the Windows Event Viewer?](https://www.youtube.com/watch?v=hM-SJ-X_-sI)
+- [Tips for Getting Started Learning Cybersecurity](https://www.youtube.com/watch?v=Mt4PYoyiqB0)
 
 ## Hacker News
 
@@ -161,6 +169,8 @@
 - [YouTube Security Scene](http://phrack.org/issues/70/15.html#article)
 - [Python Code Best Practices ](https://dev.to/dollardhingra/python-code-best-practices-4k96)
 - [list of darknet sites](https://tor.taxi/https://tor.taxi/)
+- [marvel reading orders](https://cmro.travis-starnes.com)
+- [https://nohello.net/en/](https://nohello.net/en/)
 
 ## challenge
 
