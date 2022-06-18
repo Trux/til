@@ -83,8 +83,9 @@
 - [sha256 calculator](https://sha256algorithm.com/)
 - [Firefox Extensions to Enhance Your Pentesting/Bug bounty Hunting](https://nitter.net/cyph3r_asr/status/1430199021713297410)
 - [An app for managing ROMs in Steam](https://steamgriddb.github.io/steam-rom-manager/)
-- [https://www.henrypp.org/product/simplewallcv](https://www.henrypp.org/product/simplewall)
-- [https://docs.microsoft.com/en-us/windows/client-management/troubleshoot-windows-freeze](Advanced troubleshooting for Windows freezes)
+- [simple windows firewall](https://www.henrypp.org/product/simplewall)
+- [Advanced troubleshooting for Windows freezes]([https://docs.microsoft.com/en-us/windows/client-management/troubleshoot-windows-freeze)
+- [convert xml, json and other stuff](https://gchq.github.io/CyberChef/)
 
 ## videos
 
