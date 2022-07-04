@@ -86,6 +86,7 @@
 - [simple windows firewall](https://www.henrypp.org/product/simplewall)
 - [Advanced troubleshooting for Windows freezes]([https://docs.microsoft.com/en-us/windows/client-management/troubleshoot-windows-freeze)
 - [convert xml, json and other stuff](https://gchq.github.io/CyberChef/)
+- [OSINT tools](https://start.me/p/1kJKR9/commandergirl-s-suggestions)
 
 ## videos
 
