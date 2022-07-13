@@ -57,7 +57,7 @@
 - [The Illustrated TLS 1.3 Connection](https://tls13.ulfheim.net/)
 - [CS229: Machine Learning](https://cs229.stanford.edu/)
 - [A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a)
-
+- [CS101: Introduction to Computing Principles](https://news.ycombinator.com/item?id=32043433)
 ## history
 
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht)
@@ -153,6 +153,7 @@
 - [Python For Finance: Algorithmic Trading](https://news.ycombinator.com/item?id=14469477)
 - [Mastering Bash and Terminal](https://news.ycombinator.com/item?id=13400350)
 - [Pixar in a Box – Khan Academy](https://news.ycombinator.com/item?id=10129914)
+- [Music for Programming](https://news.ycombinator.com/item?id=32009440)
 
 ## emulation
 
