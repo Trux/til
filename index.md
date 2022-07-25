@@ -113,6 +113,7 @@
 - [Introduction to Artificial Intelligence](https://youtu.be/5LVa-Rf2ZLg?list=PL_xRyXins84_KZcXNu8ZJEo3874cjlMA9)
 - [What's Up With Sysmon and the Windows Event Viewer?](https://www.youtube.com/watch?v=hM-SJ-X_-sI)
 - [Tips for Getting Started Learning Cybersecurity](https://www.youtube.com/watch?v=Mt4PYoyiqB0)
+- [Ask HN: YouTube Channels for the Intellectually Curious](https://news.ycombinator.com/item?id=32220192)
 
 ## Hacker News
 
@@ -175,6 +176,7 @@
 - [marvel reading orders](https://cmro.travis-starnes.com)
 - [https://nohello.net/en/](https://nohello.net/en/)
 - [Tenets of IT](https://github.com/DavidBrightSparc/Tenets-of-IT)
+- [100 restaurants parisiens où déjeuner pour moins de 20 euros](https://www.lemonde.fr/le-monde-passe-a-table/article/2022/07/09/on-mange-quoi-ce-midi-100-restaurants-parisiens-ou-dejeuner-pour-moins-de-20-euros_6122615_6082233.html)
 
 ## challenge
 
