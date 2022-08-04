@@ -58,6 +58,7 @@
 - [CS229: Machine Learning](https://cs229.stanford.edu/)
 - [A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a)
 - [CS101: Introduction to Computing Principles](https://news.ycombinator.com/item?id=32043433)
+- [Practical Deep Learning for Coders 2022 ](https://www.fast.ai/2022/07/21/dl-coders-22/)
 ## history
 
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht)
@@ -155,6 +156,7 @@
 - [Mastering Bash and Terminal](https://news.ycombinator.com/item?id=13400350)
 - [Pixar in a Box – Khan Academy](https://news.ycombinator.com/item?id=10129914)
 - [Music for Programming](https://news.ycombinator.com/item?id=32009440)
+- [Books to read to understand financial crime](https://news.ycombinator.com/item?id=32091288)
 
 ## emulation
 
