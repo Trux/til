@@ -59,6 +59,7 @@
 - [A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a)
 - [CS101: Introduction to Computing Principles](https://news.ycombinator.com/item?id=32043433)
 - [Practical Deep Learning for Coders 2022 ](https://www.fast.ai/2022/07/21/dl-coders-22/)
+- [A Defensive Computing Checklist](https://defensivecomputingchecklist.com/)
 ## history
 
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht)
@@ -88,6 +89,7 @@
 - [Advanced troubleshooting for Windows freezes]([https://docs.microsoft.com/en-us/windows/client-management/troubleshoot-windows-freeze)
 - [convert xml, json and other stuff](https://gchq.github.io/CyberChef/)
 - [OSINT tools](https://start.me/p/1kJKR9/commandergirl-s-suggestions)
+- [High Alpine typeface](https://www.sarahbellmaps.com/high-alpine-serif-font/)
 
 ## videos
 
