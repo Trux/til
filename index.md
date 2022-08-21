@@ -1,5 +1,19 @@
 # TIL
 
+## Los Angeles
+- [Self-Guided Walking Tours](https://www.gpsmycity.com/gps-tour-guides/los-angeles-631.html)
+- [1-Day Santa Monica & Venice Beach Itinerary ](https://www.travelcaffeine.com/1-day-santa-monica-venice-beach-itinerary/)
+- [Self-Guided Tours](https://www.laconservancy.org/events-tours/self-guided-tours)
+- [Explore Downtown Los Angeles on a Self-Guided Walking Tour](https://travelnotesandbeyond.com/downtown-los-angeles-walking-tour/)
+- [self-guided historical walking](https://www.angelswalkla.org/)
+- [VERYLA DOT IO](https://veryla.io/archives/)
+- [Art Deco Walking Tour](https://www.laconservancy.org/events/art-deco-walking-tour)
+- [Best Disneyland Fireworks Views](https://www.disneytouristblog.com/disneyland-fireworks-best-views/)
+- [1-Day Disneyland Itinerary Using Genie+ & Lightning Lanes](https://www.disneytouristblog.com/1-day-disneyland-itinerary-genie-plus-lightning-lanes/)
+- [1-Day California Adventure Itinerary Using Genie+ & Lightning Lanes](https://www.disneytouristblog.com/1-day-california-adventure-itinerary-genie-plus-lightning-lanes/)
+- [We Did Every Genie+ Ride at Disneyland & DCA In A Day](https://www.disneytouristblog.com/we-did-every-genie-ride-at-disneyland-dca-in-a-day/)
+- [A Walk Along L.A.'s Original Borders Reveals Surprising Remnants from the City's Past](https://www.kcet.org/shows/lost-la/los-angeles-original-borders)
+
 ## tutorials
 
 - [Layman's iptables 101](https://iximiuz.com/en/posts/laymans-iptables-101/)
@@ -199,6 +213,8 @@
 - [CompTIA Security+](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
 - [eLearnSecurity Junior Penetration Tester](https://elearnsecurity.com/product/ejpt-certification/)
 - [CompTIA Security+](https://www.comptia.org/certifications/security)
+- [SOC Core Skills](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/)
+- 
 
 ## Shell
 
