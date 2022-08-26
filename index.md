@@ -74,8 +74,11 @@
 - [CS101: Introduction to Computing Principles](https://news.ycombinator.com/item?id=32043433)
 - [Practical Deep Learning for Coders 2022 ](https://www.fast.ai/2022/07/21/dl-coders-22/)
 - [A Defensive Computing Checklist](https://defensivecomputingchecklist.com/)
-## history
+- [bizarreries du langage c](https://ache.one/articles/bizarreries-du-langage-c)
 
+
+
+## history
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht)
 - [1956 Cryptanalysis – A Study Of Ciphers And Their Solution](https://archive.org/details/1956Cryptanalysis-AStudyOfCiphersAndTheirSolution/page/n7/mode/2up)
 - [What every IT person needs to know about OpenBSD Part 1: How it all started](https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/)
@@ -182,6 +185,7 @@
 - [CyberLab Mega Bezel Death To Pixels Shader Preset Pack](https://forums.libretro.com/t/cyberlab-mega-bezel-death-to-pixels-shader-preset-pack/35606?u=cyber)
 - [Fire Emblem Binary](https://www.romhacking.net/hacks/3863/)
 - [Chrono Trigger: Bugfix and Uncensoring Patch](https://www.romhacking.net/hacks/3147/)
+- [High-Quality Sound Mixing for Mother 3](https://www.romhacking.net/reviews/9069/)
 
 ## random stuff
 
