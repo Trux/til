@@ -13,6 +13,7 @@
 - [1-Day California Adventure Itinerary Using Genie+ & Lightning Lanes](https://www.disneytouristblog.com/1-day-california-adventure-itinerary-genie-plus-lightning-lanes/)
 - [We Did Every Genie+ Ride at Disneyland & DCA In A Day](https://www.disneytouristblog.com/we-did-every-genie-ride-at-disneyland-dca-in-a-day/)
 - [A Walk Along L.A.'s Original Borders Reveals Surprising Remnants from the City's Past](https://www.kcet.org/shows/lost-la/los-angeles-original-borders)
+- [2022 Universal Studios Hollywood Planning Guide](https://www.disneytouristblog.com/universal-studios-hollywood-planning-guide/)
 
 ## tutorials
 
@@ -75,6 +76,7 @@
 - [Practical Deep Learning for Coders 2022 ](https://www.fast.ai/2022/07/21/dl-coders-22/)
 - [A Defensive Computing Checklist](https://defensivecomputingchecklist.com/)
 - [bizarreries du langage c](https://ache.one/articles/bizarreries-du-langage-c)
+- [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
 
 
 
