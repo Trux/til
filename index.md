@@ -206,7 +206,7 @@
 - [Tenets of IT](https://github.com/DavidBrightSparc/Tenets-of-IT)
 - [100 restaurants parisiens où déjeuner pour moins de 20 euros](https://www.lemonde.fr/le-monde-passe-a-table/article/2022/07/09/on-mange-quoi-ce-midi-100-restaurants-parisiens-ou-dejeuner-pour-moins-de-20-euros_6122615_6082233.html)
 - [high scalability](http://highscalability.com)
-- 
+
 ## challenge
 
 - [https://www.newbiecontest.org/](https://www.newbiecontest.org/)
