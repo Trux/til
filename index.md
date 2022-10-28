@@ -1,6 +1,7 @@
 # TIL
 
 ## Los Angeles
+
 - [Self-Guided Walking Tours](https://www.gpsmycity.com/gps-tour-guides/los-angeles-631.html)
 - [1-Day Santa Monica & Venice Beach Itinerary ](https://www.travelcaffeine.com/1-day-santa-monica-venice-beach-itinerary/)
 - [Self-Guided Tours](https://www.laconservancy.org/events-tours/self-guided-tours)
@@ -82,6 +83,7 @@
 
 
 ## history
+
 - [An Oral History of the LØpht](https://duo.com/decipher/an-oral-history-of-the-l0pht)
 - [1956 Cryptanalysis – A Study Of Ciphers And Their Solution](https://archive.org/details/1956Cryptanalysis-AStudyOfCiphersAndTheirSolution/page/n7/mode/2up)
 - [What every IT person needs to know about OpenBSD Part 1: How it all started](https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/)
