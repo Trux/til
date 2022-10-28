@@ -77,6 +77,7 @@
 - [A Defensive Computing Checklist](https://defensivecomputingchecklist.com/)
 - [bizarreries du langage c](https://ache.one/articles/bizarreries-du-langage-c)
 - [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
+- [Latency Numbers Every Programmer Should Know"](https://twitter.com/srigi/status/917998817051541504/)
 
 
 
@@ -201,7 +202,7 @@
 - [https://nohello.net/en/](https://nohello.net/en/)
 - [Tenets of IT](https://github.com/DavidBrightSparc/Tenets-of-IT)
 - [100 restaurants parisiens où déjeuner pour moins de 20 euros](https://www.lemonde.fr/le-monde-passe-a-table/article/2022/07/09/on-mange-quoi-ce-midi-100-restaurants-parisiens-ou-dejeuner-pour-moins-de-20-euros_6122615_6082233.html)
-
+- [highs calability](http://highscalability.com)
 ## challenge
 
 - [https://www.newbiecontest.org/](https://www.newbiecontest.org/)
