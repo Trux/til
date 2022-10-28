@@ -110,6 +110,7 @@
 - [convert xml, json and other stuff](https://gchq.github.io/CyberChef/)
 - [OSINT tools](https://start.me/p/1kJKR9/commandergirl-s-suggestions)
 - [High Alpine typeface](https://www.sarahbellmaps.com/high-alpine-serif-font/)
+- [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
 
 ## videos
 
@@ -202,7 +203,8 @@
 - [https://nohello.net/en/](https://nohello.net/en/)
 - [Tenets of IT](https://github.com/DavidBrightSparc/Tenets-of-IT)
 - [100 restaurants parisiens où déjeuner pour moins de 20 euros](https://www.lemonde.fr/le-monde-passe-a-table/article/2022/07/09/on-mange-quoi-ce-midi-100-restaurants-parisiens-ou-dejeuner-pour-moins-de-20-euros_6122615_6082233.html)
-- [highs calability](http://highscalability.com)
+- [high scalability](http://highscalability.com)
+- 
 ## challenge
 
 - [https://www.newbiecontest.org/](https://www.newbiecontest.org/)
