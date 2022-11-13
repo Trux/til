@@ -257,6 +257,7 @@
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [zsh-completions ](https://github.com/zsh-users/zsh-completions)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+- [why does zsh start so slowly?](https://pickard.cc/posts/why-does-zsh-start-slowly/)
 
 ## GTA V mods
 
