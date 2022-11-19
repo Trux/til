@@ -79,6 +79,8 @@
 - [bizarreries du langage c](https://ache.one/articles/bizarreries-du-langage-c)
 - [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
 - [Latency Numbers Every Programmer Should Know"](https://twitter.com/srigi/status/917998817051541504/)
+- [Taking Password Cracking to the Next Level](https://cryptokait.com/2020/09/02/taking-password-cracking-to-the-next-level/)
+- [How To Clean Pictures For Better Search Results](https://nixintel.info/osint/quiztime-how-to-clean-pictures-for-better-search-results/)
 
 
 
@@ -206,6 +208,7 @@
 - [Tenets of IT](https://github.com/DavidBrightSparc/Tenets-of-IT)
 - [100 restaurants parisiens où déjeuner pour moins de 20 euros](https://www.lemonde.fr/le-monde-passe-a-table/article/2022/07/09/on-mange-quoi-ce-midi-100-restaurants-parisiens-ou-dejeuner-pour-moins-de-20-euros_6122615_6082233.html)
 - [high scalability](http://highscalability.com)
+- [The Big Blocklist Collection](https://firebog.net/)
 
 ## challenge
 
