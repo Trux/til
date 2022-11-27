@@ -81,6 +81,7 @@
 - [Latency Numbers Every Programmer Should Know"](https://twitter.com/srigi/status/917998817051541504/)
 - [Taking Password Cracking to the Next Level](https://cryptokait.com/2020/09/02/taking-password-cracking-to-the-next-level/)
 - [How To Clean Pictures For Better Search Results](https://nixintel.info/osint/quiztime-how-to-clean-pictures-for-better-search-results/)
+- [Those HTML Attributes You Never Use](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/)
 
 
 
@@ -115,6 +116,7 @@
 - [OSINT tools](https://start.me/p/1kJKR9/commandergirl-s-suggestions)
 - [High Alpine typeface](https://www.sarahbellmaps.com/high-alpine-serif-font/)
 - [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
+- [Identifier un opérateur par un numéro](https://www.arcep.fr/demarches-et-services/professionnels/base-numerotation.html)
 
 ## videos
 
