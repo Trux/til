@@ -117,6 +117,7 @@
 - [High Alpine typeface](https://www.sarahbellmaps.com/high-alpine-serif-font/)
 - [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
 - [Identifier un opérateur par un numéro](https://www.arcep.fr/demarches-et-services/professionnels/base-numerotation.html)
+- [Download Microsoft ISOs directly from their CDNs for testing](https://tb.rg-adguard.net/public.php)
 
 ## videos
 
