@@ -82,6 +82,7 @@
 - [Taking Password Cracking to the Next Level](https://cryptokait.com/2020/09/02/taking-password-cracking-to-the-next-level/)
 - [How To Clean Pictures For Better Search Results](https://nixintel.info/osint/quiztime-how-to-clean-pictures-for-better-search-results/)
 - [Those HTML Attributes You Never Use](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/)
+- [What is svchost.exe?](http://svchost-exe.net/)
 
 
 
@@ -187,6 +188,7 @@
 - [Pixar in a Box – Khan Academy](https://news.ycombinator.com/item?id=10129914)
 - [Music for Programming](https://news.ycombinator.com/item?id=32009440)
 - [Books to read to understand financial crime](https://news.ycombinator.com/item?id=32091288)
+- [Ask HN: Can you recommend a book to learn basic electrical concepts/engineering?](https://news.ycombinator.com/item?id=33869277)
 
 ## emulation
 
