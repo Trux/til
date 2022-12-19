@@ -83,6 +83,7 @@
 - [How To Clean Pictures For Better Search Results](https://nixintel.info/osint/quiztime-how-to-clean-pictures-for-better-search-results/)
 - [Those HTML Attributes You Never Use](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/)
 - [What is svchost.exe?](http://svchost-exe.net/)
+- [Ants and the TCP Protocol – “ The Anternet” ](https://www.linkedin.com/pulse/ants-tcp-protocol-anternet-muhammad-hassan-javed)
 
 
 
@@ -119,6 +120,7 @@
 - [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
 - [Identifier un opérateur par un numéro](https://www.arcep.fr/demarches-et-services/professionnels/base-numerotation.html)
 - [Download Microsoft ISOs directly from their CDNs for testing](https://tb.rg-adguard.net/public.php)
+- [Free Online Tools for Looking up Potentially Malicious Websites](https://zeltser.com/lookup-malicious-websites/)
 
 ## videos
 
