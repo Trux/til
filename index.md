@@ -121,6 +121,7 @@
 - [Identifier un opérateur par un numéro](https://www.arcep.fr/demarches-et-services/professionnels/base-numerotation.html)
 - [Download Microsoft ISOs directly from their CDNs for testing](https://tb.rg-adguard.net/public.php)
 - [Free Online Tools for Looking up Potentially Malicious Websites](https://zeltser.com/lookup-malicious-websites/)
+- [boot directly into the BIOS](https://twitter.com/ADurrante/status/1578052630043140101)
 
 ## videos
 
