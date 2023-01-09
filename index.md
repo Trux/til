@@ -84,6 +84,10 @@
 - [Those HTML Attributes You Never Use](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/)
 - [What is svchost.exe?](http://svchost-exe.net/)
 - [Ants and the TCP Protocol – “ The Anternet” ](https://www.linkedin.com/pulse/ants-tcp-protocol-anternet-muhammad-hassan-javed)
+- [Everyday Data Science](https://everyday-data-science.tigyog.app/)
+- [fast.ai—Making neural nets uncool again](https://www.fast.ai/)
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [learning reverse engineering in 2023?](https://twitter.com/coder_rc/status/1608385931463258112)
 
 
 
@@ -122,6 +126,9 @@
 - [Download Microsoft ISOs directly from their CDNs for testing](https://tb.rg-adguard.net/public.php)
 - [Free Online Tools for Looking up Potentially Malicious Websites](https://zeltser.com/lookup-malicious-websites/)
 - [boot directly into the BIOS](https://twitter.com/ADurrante/status/1578052630043140101)
+- [ways to find the Microsoft365/ Office365 features and shortcuts](https://twitter.com/SwiftOnSecurity/status/1590109935823511553)
+- [Remove the result from PimEyes index](https://pimeyes.com/en/submit-delete-request)
+- [Block the tweet, its author, and every single person who liked it—](https://megablock.xyz/)
 
 ## videos
 
@@ -149,6 +156,7 @@
 - [What's Up With Sysmon and the Windows Event Viewer?](https://www.youtube.com/watch?v=hM-SJ-X_-sI)
 - [Tips for Getting Started Learning Cybersecurity](https://www.youtube.com/watch?v=Mt4PYoyiqB0)
 - [Ask HN: YouTube Channels for the Intellectually Curious](https://news.ycombinator.com/item?id=32220192)
+- [Cybersecurity Meg](https://www.youtube.com/c/CybersecurityMeg)
 
 ## Hacker News
 
