@@ -129,6 +129,7 @@
 - [ways to find the Microsoft365/ Office365 features and shortcuts](https://twitter.com/SwiftOnSecurity/status/1590109935823511553)
 - [Remove the result from PimEyes index](https://pimeyes.com/en/submit-delete-request)
 - [Block the tweet, its author, and every single person who liked it—](https://megablock.xyz/)
+- [ A vast collection of security tools ](https://offsec.tools/)
 
 ## videos
 
@@ -200,7 +201,13 @@
 - [Music for Programming](https://news.ycombinator.com/item?id=32009440)
 - [Books to read to understand financial crime](https://news.ycombinator.com/item?id=32091288)
 - [Ask HN: Can you recommend a book to learn basic electrical concepts/engineering?](https://news.ycombinator.com/item?id=33869277)
-
+- [Ask HN: Books that teach programming by building a series of small projects?](https://news.ycombinator.com/item?id=34412069)
+- [Ask HN: Best Layman's Book on Electricity](https://news.ycombinator.com/item?id=34474403)
+- [Ask HN: Math books that made you significantly better at math?](https://news.ycombinator.com/item?id=34439828)
+- [Ask HN: Favorite Podcast Episodes of 2022?](https://news.ycombinator.com/item?id=34138737)
+- [Idiot Proof Git](https://news.ycombinator.com/item?id=33532062)
+- [Ask HN: What are the best general math workbooks?](https://news.ycombinator.com/item?id=33192084)
+- [Ask HN: How to learn math from zero for adults?](https://news.ycombinator.com/item?id=31539549#31548587)
 ## emulation
 
 - [Resident Evil: True Director's Cut](https://www.romhacking.net/hacks/5837/)
