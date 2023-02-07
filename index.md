@@ -123,7 +123,7 @@
 - [High Alpine typeface](https://www.sarahbellmaps.com/high-alpine-serif-font/)
 - [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/)
 - [Identifier un opérateur par un numéro](https://www.arcep.fr/demarches-et-services/professionnels/base-numerotation.html)
-- [Download Microsoft ISOs directly from their CDNs for testing](https://tb.rg-adguard.net/public.php)
+- [Download Microsoft ISOs directly from their CDNs for testing](https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5)
 - [Free Online Tools for Looking up Potentially Malicious Websites](https://zeltser.com/lookup-malicious-websites/)
 - [boot directly into the BIOS](https://twitter.com/ADurrante/status/1578052630043140101)
 - [ways to find the Microsoft365/ Office365 features and shortcuts](https://twitter.com/SwiftOnSecurity/status/1590109935823511553)
@@ -217,6 +217,7 @@
 - [Fire Emblem Binary](https://www.romhacking.net/hacks/3863/)
 - [Chrono Trigger: Bugfix and Uncensoring Patch](https://www.romhacking.net/hacks/3147/)
 - [High-Quality Sound Mixing for Mother 3](https://www.romhacking.net/reviews/9069/)
+- [ Fantasy Tactics: The War of the Lions](https://www.romhacking.net/hacks/2119/)
 
 ## random stuff
 
