@@ -129,7 +129,8 @@
 - [ways to find the Microsoft365/ Office365 features and shortcuts](https://twitter.com/SwiftOnSecurity/status/1590109935823511553)
 - [Remove the result from PimEyes index](https://pimeyes.com/en/submit-delete-request)
 - [Block the tweet, its author, and every single person who liked it—](https://megablock.xyz/)
-- [ A vast collection of security tools ](https://offsec.tools/)
+- [A vast collection of security tools ](https://offsec.tools/)
+- [The definitive Stable Diffusion experience ™](https://rentry.org/voldy)
 
 ## videos
 
