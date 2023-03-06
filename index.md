@@ -88,6 +88,7 @@
 - [fast.ai—Making neural nets uncool again](https://www.fast.ai/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [learning reverse engineering in 2023?](https://twitter.com/coder_rc/status/1608385931463258112)
+- [🎓 Path to a free self-taught education in Computer Science! ](https://github.com/ossu/computer-science)
 
 
 
@@ -209,6 +210,9 @@
 - [Idiot Proof Git](https://news.ycombinator.com/item?id=33532062)
 - [Ask HN: What are the best general math workbooks?](https://news.ycombinator.com/item?id=33192084)
 - [Ask HN: How to learn math from zero for adults?](https://news.ycombinator.com/item?id=31539549#31548587)
+- [Ask HN: Which book would you recommend for learning Python in detail?](https://news.ycombinator.com/item?id=34569425)
+- [A little exercise each day improves muscles more than one big weekly workout](https://news.ycombinator.com/item?id=32479659)
+- [Ask HN: Advice from people who strength train from home](https://news.ycombinator.com/item?id=34673880)
 ## emulation
 
 - [Resident Evil: True Director's Cut](https://www.romhacking.net/hacks/5837/)
