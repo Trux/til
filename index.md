@@ -132,6 +132,7 @@
 - [Block the tweet, its author, and every single person who liked it—](https://megablock.xyz/)
 - [A vast collection of security tools ](https://offsec.tools/)
 - [The definitive Stable Diffusion experience ™](https://rentry.org/voldy)
+- [list of Microsoft portals](https://cmd.ms/)
 
 ## videos
 
