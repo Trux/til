@@ -239,6 +239,8 @@
 - [100 restaurants parisiens où déjeuner pour moins de 20 euros](https://www.lemonde.fr/le-monde-passe-a-table/article/2022/07/09/on-mange-quoi-ce-midi-100-restaurants-parisiens-ou-dejeuner-pour-moins-de-20-euros_6122615_6082233.html)
 - [high scalability](http://highscalability.com)
 - [The Big Blocklist Collection](https://firebog.net/)
+- [shows you cameras and guards — watching you](https://sunders.uber.space/)
+- [stop defender send files samples](https://twitter.com/Barnacules/status/1659311178739490816)
 
 ## challenge
 
@@ -307,3 +309,22 @@
 - [Dispatchworks Pack](https://fr.gta5-mods.com/vehicles/dispatchworks-pack-add-on-oiv-tuning-liveries)
 - [Life Like Vehicle Textrue Pack](https://fr.gta5-mods.com/paintjobs/life-like-vehicle-textrue-pack)
 - [SirenSetting Limit Adjuster](https://fr.gta5-mods.com/scripts/sirensetting-limit-adjuster)
+
+## Cybersecurity
+
+- [Harden windows](https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md)
+- [Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan)
+- [Zehef is a osint tool who studies the emails](https://github.com/N0rz3/Zehef)
+- [SmbCrawler is tool that 'crawls' through shares](https://github.com/SySS-Research/smbcrawler)
+- [WirelessPentesting-CheatSheet](https://github.com/V0lk3n/WirelessPentesting-CheatSheet)
+- [Default Credentials Cheat Sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet)
+- [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+- [A collection of bookmarks for penetration testers](https://github.com/kargisimos/offensive-bookmarks)
+- [NSA-Linux-Hardening-docs](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
+- [Important Windows directories for SOC Analysts](https://twitter.com/LetsDefendIO/status/1667907796241723393)
+- [Evilginx 3.0 + Evilginx Mastery](https://breakdev.org/evilginx-3-0-evilginx-mastery/) 
+- [Your InfoSec news aggregator](https://allinfosecnews.com/)
+- [tools for OSINT ](https://start.me/p/wMdQMQ/tools)
+- []()
+- []()
+- []()
