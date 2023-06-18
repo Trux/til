@@ -133,6 +133,10 @@
 - [A vast collection of security tools ](https://offsec.tools/)
 - [The definitive Stable Diffusion experience ™](https://rentry.org/voldy)
 - [list of Microsoft portals](https://cmd.ms/)
+- [Delete any file in three easy steps:](https://twitter.com/KaoAtlantis/status/1643074003131830272)
+- [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/)
+- [Monitoring d'un compteur électrique Linky](https://twitter.com/lcheylus/status/1583061725783683072)
+- [Convert your JPEG and PNG bitmaps to SVG](https://vectorizer.ai/)
 
 ## videos
 
@@ -325,6 +329,7 @@
 - [Evilginx 3.0 + Evilginx Mastery](https://breakdev.org/evilginx-3-0-evilginx-mastery/) 
 - [Your InfoSec news aggregator](https://allinfosecnews.com/)
 - [tools for OSINT ](https://start.me/p/wMdQMQ/tools)
-- []()
-- []()
-- []()
+- [learn how real threat actors operate](https://twitter.com/cyb3rops/status/1659987964603056128)
+- [Kali Linux Cheatsheet](https://twitter.com/cyb_detective/status/1649027394328723456)
+- [Basics of Burp(ing) for Testing Web App Security](https://www.youtube.com/watch?v=Gb7OQm5-Xdw)
+- [Upskill and Advance Your Career](https://www.cybrary.it/cybrary-insider-pro)
