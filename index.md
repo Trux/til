@@ -89,6 +89,7 @@
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [learning reverse engineering in 2023?](https://twitter.com/coder_rc/status/1608385931463258112)
 - [🎓 Path to a free self-taught education in Computer Science! ](https://github.com/ossu/computer-science)
+- [https://beej.us/guide/bgnet0/html/split/](https://beej.us/guide/bgnet0/html/split/)
 
 
 
